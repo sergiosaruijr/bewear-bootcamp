@@ -1,7 +1,9 @@
+import { Button } from "@/components/ui/button";
+
 export default function Home() {
   return (
     <div>
-      <button color="primary">Bootcamp</button>
+      <Button>Bootcamp</Button>
     </div>
   );
 }
